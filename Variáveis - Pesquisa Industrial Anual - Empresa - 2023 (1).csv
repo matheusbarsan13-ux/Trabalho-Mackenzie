@@ -1,0 +1,202 @@
+﻿Código,Nome da variável,Unidade estatística,Forma de representação,Domínio
+EMAQ0002,Aquisições de edificações,empresa,valor em reais,Aquisições
+EMAQ0003,Aquisições de máquinas e equipamentos industriais,empresa,valor em reais,Aquisições
+EMAQ0004,Aquisições de meios de transporte,empresa,valor em reais,Aquisições
+EMAQ0001,Aquisições de terrenos,empresa,valor em reais,Aquisições
+EMAQ0020,Aquisições e produção própria realizada para o ativo imobilizado,empresa,valor em reais,Aquisições
+EMAQ0006,Aquisições para o ativo imobilizado,empresa,valor em reais,Aquisições
+ULAQ0001,"Aquisições, produção própria realizada para o ativo imobilizado e melhorias",unidade local,valor em reais,Aquisições
+EMAT0002,Ativo,empresa,valor em reais,Ativo
+EMAT0001,Ativo imobilizado,empresa,valor em reais,Ativo
+EMBA0002,Baixas de edificações,empresa,valor em reais,Baixas
+EMBA0003,Baixas de máquinas e equipamentos industriais,empresa,valor em reais,Baixas
+EMBA0004,Baixas de meios de transporte,empresa,valor em reais,Baixas
+EMBA0005,Baixas de outros bens,empresa,valor em reais,Baixas
+EMBA0001,Baixas de terrenos,empresa,valor em reais,Baixas
+EMBA0006,Baixas do ativo imobilizado,empresa,valor em reais,Baixas
+EMCD0008,Benefícios concedidos aos empregados,empresa,valor em reais,Custos e despesas
+EMCD0062,Compra de materiais de procedência estrangeira,empresa,percentual,Custos e despesas
+EMCD0060,Compra de materiais de procedência nacional,empresa,percentual,Custos e despesas
+EMCD0015,Compra de matérias-primas para fabricação própria,empresa,valor em reais,Custos e despesas
+EMCD0014,Compra de mercadorias para revenda,empresa,valor em reais,Custos e despesas
+EMCD0006,Contribuição para a previdência privada,empresa,valor em reais,Custos e despesas
+EMCD0004,Contribuição para a previdência social,empresa,valor em reais,Custos e despesas
+EMDE0004,Deduções com outros impostos e contribuições sobre vendas,empresa,valor em reais,Deduções
+EMDE0010,Deduções da receita bruta,empresa,valor em reais,Deduções
+EMDE0001,"Deduções de cancelamento de vendas, abatimentos e descontos",empresa,valor em reais,Deduções
+EMDE0002,Deduções de ICMS,empresa,valor em reais,Deduções
+EMDE0003,Deduções de PIS/PASEP,empresa,valor em reais,Deduções
+EMCD0041,"Depreciação, amortização e exaustão",empresa,valor em reais,Custos e despesas
+EMCD0048,Despesas com água e esgoto,empresa,valor em reais,Custos e despesas
+EMCD0037,Despesas com aluguéis e arrendamentos de bens móveis ou imóveis,empresa,valor em reais,Custos e despesas
+EMCD0039,Despesas com arrendamento mercantil,empresa,valor em reais,Custos e despesas
+EMCD0054,Despesas com combustíveis,empresa,valor em reais,Custos e despesas
+EMCD0055,Despesas com energia elétrica,empresa,valor em reais,Custos e despesas
+EMCD0082,Despesas com energia elétrica e combustíveis,empresa,valor em reais,Custos e despesas
+EMCD0024,Despesas com fretes e carretos,empresa,valor em reais,Custos e despesas
+EMCD0032,Despesas com impostos e taxas,empresa,valor em reais,Custos e despesas
+EMCD0058,Despesas com manutenção e reparação de máquinas e equipamentos,empresa,valor em reais,Custos e despesas
+EMCD0056,Despesas com peças e acessórios para manutenção e reparação de máquinas e equipamentos,empresa,valor em reais,Custos e despesas
+EMCD0031,Despesas com prêmios de seguros,empresa,valor em reais,Custos e despesas
+EMCD0019,Despesas com publicidade e propaganda,empresa,valor em reais,Custos e despesas
+EMCD0035,Despesas com royalties,empresa,valor em reais,Custos e despesas
+EMCD0084,"Despesas com serviços industriais, manutenção e reparação de máquinas e equipamentos",empresa,valor em reais,Custos e despesas
+EMCD0086,Despesas com serviços industriais prestados por terceiros,empresa,valor em reais,Custos e despesas
+EMCD0046,Despesas com serviços prestados por terceiros,empresa,valor em reais,Custos e despesas
+EMCD0047,Despesas com vendas,empresa,valor em reais,Custos e despesas
+EMCD0033,Despesas com viagens e representações,empresa,valor em reais,Custos e despesas
+ULCD0002,Despesas e custos,unidade local,valor em reais,Custos e despesas
+EMCD0044,Despesas financeiras,empresa,valor em reais,Custos e despesas
+EMCD0081,"Despesas financeiras, variações monetárias e depreciação",empresa,valor em reais,Custos e despesas
+EMVE0005,Destino das vendas de mercadorias,empresa,percentual,Vendas
+EMET0008,Estoque final de matérias-primas para fabricação própria,empresa,valor em reais,Estoques
+EMET0006,Estoque final de mercadorias para revenda,empresa,valor em reais,Estoques
+EMET0013,Estoque final de produtos acabados,empresa,valor em reais,Estoques
+EMET0007,Estoque final de produtos acabados e em elaboração,empresa,valor em reais,Estoques
+ULET0002,Estoque final de produtos acabados e em elaboração,unidade local,valor em reais,Estoques
+EMET0014,Estoque final de produtos em elaboração,empresa,valor em reais,Estoques
+EMET0003,Estoque inicial de matérias-primas para fabricação própria,empresa,valor em reais,Estoques
+EMET0001,Estoque inicial de mercadorias para revenda,empresa,valor em reais,Estoques
+EMET0011,Estoque inicial de produtos acabados,empresa,valor em reais,Estoques
+EMET0002,Estoque inicial de produtos acabados e em elaboração,empresa,valor em reais,Estoques
+ULET0001,Estoque inicial de produtos acabados e em elaboração,unidade local,valor em reais,Estoques
+EMET0012,Estoque inicial de produtos em elaboração,empresa,valor em reais,Estoques
+EMCD0005,Gastos com FGTS,empresa,valor em reais,Custos e despesas
+EMCD0007,Gastos com indenizações trabalhistas e rescisões,empresa,valor em reais,Custos e despesas
+EMCD0018,Gastos com pessoal,empresa,valor em reais,Custos e despesas
+ULMP0001,Matérias-primas consumidas no processo produtivo,unidade local,valor em reais,Matéria-prima
+EMAQ0013,Melhorias para edificações,empresa,valor em reais,Aquisições
+EMAQ0014,Melhorias para máquinas e equipamentos industriais,empresa,valor em reais,Aquisições
+EMAQ0015,Melhorias para meios de transporte,empresa,valor em reais,Aquisições
+EMAQ0017,Melhorias para o ativo imobilizado,empresa,valor em reais,Aquisições
+EMAQ0016,Melhorias para outras aquisições,empresa,valor em reais,Aquisições
+EMAQ0012,Melhorias para terrenos,empresa,valor em reais,Aquisições
+EMDE0005,Opção pelo regime tributário Simples Nacional,empresa,categoria,Deduções
+EMAQ0005,Outras aquisições,empresa,valor em reais,Aquisições
+EMCD0051,Outras despesas,empresa,valor em reais,Custos e despesas
+EMCD0052,Outras despesas e custos,empresa,valor em reais,Custos e despesas
+EMCD0059,Outras despesas operacionais,empresa,valor em reais,Custos e despesas
+EMOR0007,Outras receitas,empresa,valor em reais,Outras receitas
+EMOR0006,Outras receitas não ligadas à atividade,empresa,valor em reais,Outras receitas
+EMOR0005,Outras receitas operacionais,empresa,valor em reais,Outras receitas
+ULCD0001,Outros custos de operação industrial,unidade local,valor em reais,Custos e despesas
+ULPO0001,Pessoas ocupadas,unidade local,número,Pessoas ocupadas
+EMPO0006,Pessoas ocupadas,empresa,média,Pessoas ocupadas
+EMPO0003,Pessoas ocupadas,empresa,número,Pessoas ocupadas
+EMPO0031,Pessoas ocupadas (Acre),empresa,número,Pessoas ocupadas
+EMPO0043,Pessoas ocupadas (Alagoas),empresa,número,Pessoas ocupadas
+EMPO0035,Pessoas ocupadas (Amapá),empresa,número,Pessoas ocupadas
+EMPO0032,Pessoas ocupadas (Amazonas),empresa,número,Pessoas ocupadas
+EMPO0002,Pessoas ocupadas assalariadas ligadas à atividade,empresa,número,Pessoas ocupadas
+EMPO0007,Pessoas ocupadas assalariadas ligadas à atividade,empresa,média,Pessoas ocupadas
+EMPO0004,Pessoas ocupadas assalariadas não ligadas à atividade,empresa,número,Pessoas ocupadas
+EMPO0008,Pessoas ocupadas assalariadas não ligadas à atividade,empresa,média,Pessoas ocupadas
+EMPO0045,Pessoas ocupadas (Bahia),empresa,número,Pessoas ocupadas
+EMPO0039,Pessoas ocupadas (Ceará),empresa,número,Pessoas ocupadas
+EMPO0056,Pessoas ocupadas (Distrito Federal),empresa,número,Pessoas ocupadas
+EMPO0047,Pessoas ocupadas (Espírito Santo),empresa,número,Pessoas ocupadas
+EMPO0055,Pessoas ocupadas (Goiás),empresa,número,Pessoas ocupadas
+EMPO0037,Pessoas ocupadas (Maranhão),empresa,número,Pessoas ocupadas
+EMPO0054,Pessoas ocupadas (Mato Grosso),empresa,número,Pessoas ocupadas
+EMPO0053,Pessoas ocupadas (Mato Grosso do Sul),empresa,número,Pessoas ocupadas
+EMPO0046,Pessoas ocupadas (Minas Gerais),empresa,número,Pessoas ocupadas
+EMPO0009,Pessoas ocupadas não assalariadas,empresa,média,Pessoas ocupadas
+EMPO0005,Pessoas ocupadas não assalariadas,empresa,número,Pessoas ocupadas
+EMPO0034,Pessoas ocupadas (Pará),empresa,número,Pessoas ocupadas
+EMPO0041,Pessoas ocupadas (Paraíba),empresa,número,Pessoas ocupadas
+EMPO0050,Pessoas ocupadas (Paraná),empresa,número,Pessoas ocupadas
+EMPO0042,Pessoas ocupadas (Pernambuco),empresa,número,Pessoas ocupadas
+EMPO0038,Pessoas ocupadas (Piauí),empresa,número,Pessoas ocupadas
+EMPO0048,Pessoas ocupadas (Rio de Janeiro),empresa,número,Pessoas ocupadas
+EMPO0040,Pessoas ocupadas (Rio Grande do Norte),empresa,número,Pessoas ocupadas
+EMPO0052,Pessoas ocupadas (Rio Grande do Sul),empresa,número,Pessoas ocupadas
+EMPO0030,Pessoas ocupadas (Rondônia),empresa,número,Pessoas ocupadas
+EMPO0033,Pessoas ocupadas (Roraima),empresa,número,Pessoas ocupadas
+EMPO0051,Pessoas ocupadas (Santa Catarina),empresa,número,Pessoas ocupadas
+EMPO0049,Pessoas ocupadas (São Paulo),empresa,número,Pessoas ocupadas
+EMPO0044,Pessoas ocupadas (Sergipe),empresa,número,Pessoas ocupadas
+EMPO0036,Pessoas ocupadas (Tocantins),empresa,número,Pessoas ocupadas
+EMAQ0011,Produção própria realizada para o ativo imobilizado,empresa,valor em reais,Aquisições
+EMAQ0007,Produção própria realizada para o ativo imobilizado de edificações,empresa,valor em reais,Aquisições
+EMAQ0008,Produção própria realizada para o ativo imobilizado de máquinas e equipamentos industriais,empresa,valor em reais,Aquisições
+EMAQ0009,Produção própria realizada para o ativo imobilizado de meios de transporte,empresa,valor em reais,Aquisições
+EMAQ0010,Produção própria realizada para o ativo imobilizado de outras aquisições,empresa,valor em reais,Aquisições
+ULVP0001,Produtos de fabricação própria e serviços industriais transferidos,unidade local,valor em reais,Valor da produção
+EMRT0001,Receita,empresa,valor em reais,Receita total
+EMRB0006,Receita bruta de outras atividades,empresa,valor em reais,Receita bruta
+EMRB0001,Receita bruta de revenda de mercadorias,empresa,valor em reais,Receita bruta
+EMRB0007,Receita bruta de venda de produtos e serviços industriais,empresa,valor em reais,Receita bruta
+EMOR0001,Receita de aluguéis e arrendamentos de bens móveis ou imóveis,empresa,valor em reais,Outras receitas
+EMOR0002,Receita financeira,empresa,valor em reais,Outras receitas
+EMRL0001,Receita líquida,empresa,valor em reais,Receita líquida
+EMRL0005,Receita líquida de venda,empresa,valor em reais,Receita líquida
+ULRL0001,Receita líquida de venda de produtos e serviços industriais,unidade local,valor em reais,Receita líquida
+ULRL0002,Receita líquida de venda proveniente de outras atividades,unidade local,valor em reais,Receita líquida
+EMCD0045,Resultado negativo de participações societárias e em sociedades em conta de participação,empresa,valor em reais,Custos e despesas
+EMOR0004,Resultado positivo de participações societárias e em sociedades em conta de participação,empresa,valor em reais,Outras receitas
+EMSA0038,Salários e outras remunerações,empresa,valor em reais,Salário
+EMSA0006,"Salários, retiradas e outras remunerações (Acre)",empresa,valor em reais,Salário
+EMSA0018,"Salários, retiradas e outras remunerações (Alagoas)",empresa,valor em reais,Salário
+EMSA0010,"Salários, retiradas e outras remunerações (Amapá)",empresa,valor em reais,Salário
+EMSA0007,"Salários, retiradas e outras remunerações (Amazonas)",empresa,valor em reais,Salário
+EMSA0020,"Salários, retiradas e outras remunerações (Bahia)",empresa,valor em reais,Salário
+EMSA0014,"Salários, retiradas e outras remunerações (Ceará)",empresa,valor em reais,Salário
+EMSA0001,"Salários, retiradas e outras remunerações das pessoas ocupadas",empresa,valor em reais,Salário
+ULSA0001,"Salários, retiradas e outras remunerações das pessoas ocupadas",unidade local,valor em reais,Salário
+EMSA0002,"Salários, retiradas e outras remunerações das pessoas ocupadas assalariadas ligadas à atividade",empresa,valor em reais,Salário
+EMSA0003,"Salários, retiradas e outras remunerações das pessoas ocupadas assalariadas não ligadas à atividade",empresa,valor em reais,Salário
+EMSA0037,"Salários, retiradas e outras remunerações das pessoas ocupadas não assalariadas",empresa,valor em reais,Salário
+EMSA0031,"Salários, retiradas e outras remunerações (Distrito Federal)",empresa,valor em reais,Salário
+EMSA0022,"Salários, retiradas e outras remunerações (Espírito Santo)",empresa,valor em reais,Salário
+EMSA0030,"Salários, retiradas e outras remunerações (Goiás)",empresa,valor em reais,Salário
+EMSA0012,"Salários, retiradas e outras remunerações (Maranhão)",empresa,valor em reais,Salário
+EMSA0029,"Salários, retiradas e outras remunerações (Mato Grosso)",empresa,valor em reais,Salário
+EMSA0028,"Salários, retiradas e outras remunerações (Mato Grosso do Sul)",empresa,valor em reais,Salário
+EMSA0021,"Salários, retiradas e outras remunerações (Minas Gerais)",empresa,valor em reais,Salário
+EMSA0009,"Salários, retiradas e outras remunerações (Pará)",empresa,valor em reais,Salário
+EMSA0016,"Salários, retiradas e outras remunerações (Paraíba)",empresa,valor em reais,Salário
+EMSA0025,"Salários, retiradas e outras remunerações (Paraná)",empresa,valor em reais,Salário
+EMSA0017,"Salários, retiradas e outras remunerações (Pernambuco)",empresa,valor em reais,Salário
+EMSA0013,"Salários, retiradas e outras remunerações (Piauí)",empresa,valor em reais,Salário
+EMSA0023,"Salários, retiradas e outras remunerações (Rio de Janeiro)",empresa,valor em reais,Salário
+EMSA0015,"Salários, retiradas e outras remunerações (Rio Grande do Norte)",empresa,valor em reais,Salário
+EMSA0027,"Salários, retiradas e outras remunerações (Rio Grande do Sul)",empresa,valor em reais,Salário
+EMSA0005,"Salários, retiradas e outras remunerações (Rondônia)",empresa,valor em reais,Salário
+EMSA0008,"Salários, retiradas e outras remunerações (Roraima)",empresa,valor em reais,Salário
+EMSA0026,"Salários, retiradas e outras remunerações (Santa Catarina)",empresa,valor em reais,Salário
+EMSA0024,"Salários, retiradas e outras remunerações (São Paulo)",empresa,valor em reais,Salário
+EMSA0019,"Salários, retiradas e outras remunerações (Sergipe)",empresa,valor em reais,Salário
+EMSA0011,"Salários, retiradas e outras remunerações (Tocantins)",empresa,valor em reais,Salário
+EMUL0028,Unidades locais,empresa,número,Unidade local
+EMUL0002,Unidades locais (Acre),empresa,número,Unidade local
+EMUL0014,Unidades locais (Alagoas),empresa,número,Unidade local
+EMUL0006,Unidades locais (Amapá),empresa,número,Unidade local
+EMUL0003,Unidades locais (Amazonas),empresa,número,Unidade local
+EMUL0016,Unidades locais (Bahia),empresa,número,Unidade local
+EMUL0010,Unidades locais (Ceará),empresa,número,Unidade local
+EMUL0027,Unidades locais (Distrito Federal),empresa,número,Unidade local
+EMUL0018,Unidades locais (Espírito Santo),empresa,número,Unidade local
+EMUL0026,Unidades locais (Goiás),empresa,número,Unidade local
+EMUL0008,Unidades locais (Maranhão),empresa,número,Unidade local
+EMUL0025,Unidades locais (Mato Grosso),empresa,número,Unidade local
+EMUL0024,Unidades locais (Mato Grosso do Sul),empresa,número,Unidade local
+EMUL0017,Unidades locais (Minas Gerais),empresa,número,Unidade local
+EMUL0005,Unidades locais (Pará),empresa,número,Unidade local
+EMUL0012,Unidades locais (Paraíba),empresa,número,Unidade local
+EMUL0021,Unidades locais (Paraná),empresa,número,Unidade local
+EMUL0013,Unidades locais (Pernambuco),empresa,número,Unidade local
+EMUL0009,Unidades locais (Piauí),empresa,número,Unidade local
+EMUL0019,Unidades locais (Rio de Janeiro),empresa,número,Unidade local
+EMUL0011,Unidades locais (Rio Grande do Norte),empresa,número,Unidade local
+EMUL0023,Unidades locais (Rio Grande do Sul),empresa,número,Unidade local
+EMUL0001,Unidades locais (Rondônia),empresa,número,Unidade local
+EMUL0004,Unidades locais (Roraima),empresa,número,Unidade local
+EMUL0022,Unidades locais (Santa Catarina),empresa,número,Unidade local
+EMUL0020,Unidades locais (São Paulo),empresa,número,Unidade local
+EMUL0015,Unidades locais (Sergipe),empresa,número,Unidade local
+EMUL0007,Unidades locais (Tocantins),empresa,número,Unidade local
+EMOR0003,Variações monetárias ativas,empresa,valor em reais,Outras receitas
+EMCD0038,Variações monetárias passivas,empresa,valor em reais,Custos e despesas
+EMVE0008,"Vendas destinadas a outros países,",empresa,percentual,Vendas
+EMVE0006,"Vendas destinadas ao mercado interno,",empresa,percentual,Vendas
+EMVE0007,"Vendas destinadas aos países do Mercosul,",empresa,percentual,Vendas
